@@ -50,10 +50,10 @@
 	</div>
 	<div class="giaidap-cauhoi">
 		<div class="name text-uppercase">Giải đáp câu hỏi thường gặp</div>
-		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg1 hvr-shutter-out-horizontal">Nam khoa thu phí như thế nào?</a>
-		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg2 hvr-shutter-out-horizontal">Bác sĩ Nam Khang có tốt không?</a>
-		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg3 hvr-shutter-out-horizontal">Khám nam khoa, hiệu quả thế nào?</a>
-		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg4 hvr-shutter-out-horizontal">Đặt hẹn trên mạng có ưu đãi không?</a>
+		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg1 hvr-shutter-out-vertical">Nam khoa thu phí như thế nào?</a>
+		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg2 hvr-shutter-out-vertical">Bác sĩ Nam Khang có tốt không?</a>
+		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg3 hvr-shutter-out-vertical">Khám nam khoa, hiệu quả thế nào?</a>
+		<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block bg4 hvr-shutter-out-vertical">Đặt hẹn trên mạng có ưu đãi không?</a>
 	</div>
 </div>
 <script>

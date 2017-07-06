@@ -19,7 +19,7 @@
 .home div.row1 .table4 a{border-right:1px solid #e5e5e5;}
 .home div.row1 .table4 a:last-child{border-right: none;}
 .home div.row1 .bg a{padding:2px 0px;}
-.home div.row1 .bg a:hover{color: red;}
+.home div.row1 .bg a:hover{color: #fc9c00;}
 .home div.row1 .bg img.pos-absolute{top:0;right: 25px;}
 /**/
 .home div.row2{background-color: #fff;padding:20px 0px;}
@@ -35,7 +35,7 @@
 .home div.row2 .flex1col1 .body.myslick_config button.slick-arrow.slick-prev{left: 88%;}
 .home div.row2 .img{margin-top: 20px;}
 /**/
-.home div.row3{min-height: 500px;background-color: #f4fbfc;padding-top: 30px;}
+.home div.row3{min-height: 500px;background-color: #fff;padding-top: 30px;}
 .home div.row3 .pos1{top:123px;left: -174px;}
 .home div.row3 .heading{background-image: url('imghome/home-13.png');height: 64px;line-height: 64px;background-repeat: no-repeat;background-position: center;}
 .home div.row3 .heading span.color1{color:#222222;font-weight: bold;font-size: 16px;}
@@ -45,7 +45,7 @@
 .home div.row3 .flex1col2{width: 644px;background-color: #fff;border:1px solid #c3c9ca;padding-top: 25px;}
 .home div.row3 .flex1col1 a{color: #fd9500;}
 /**/
-.home div.row4{min-height: 485px;background-color: #fff;padding-top: 30px;}
+.home div.row4{min-height: 485px;background-color: #f4fbfc;padding-top: 30px;}
 .home div.row4 .flex1{height: 435px;overflow: hidden;}
 .home div.row4 .flex1col1{width: 970px;}
 .home div.row4 .flex1col2{width: 207px;}

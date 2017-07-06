@@ -121,19 +121,19 @@
 					</div>
 				</div>	
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="{{ url('ve-chung-toi') }}">
+			<a class="table-cell cell1 hvr-sweep-to-top" href="{{ url('ve-chung-toi') }}">
 				Giới thiệu phòng khám
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="{{ MyAPI::getUrlTermID(32) }}">
+			<a class="table-cell cell1 hvr-sweep-to-top" href="{{ MyAPI::getUrlTermID(32) }}">
 				Kỹ thuật điều trị
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="{{ MyAPI::getUrlTermID(34) }}">
+			<a class="table-cell cell1 hvr-sweep-to-top" href="{{ MyAPI::getUrlTermID(34) }}">
 				Bệnh án hồi phục
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="{{ url('dia-chi-phong-kham') }}">
+			<a class="table-cell cell1 hvr-sweep-to-top" href="{{ url('dia-chi-phong-kham') }}">
 				Địa chỉ phòng khám
 			</a>
-			<a class="table-cell cell1 hvr-rectangle-out" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+			<a class="table-cell cell1 hvr-sweep-to-top" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 				Đặt hẹn trực tuyến
 			</a>
 		</div>

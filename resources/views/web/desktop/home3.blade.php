@@ -173,26 +173,6 @@
 			</div>
 		</div>
 	</div>
-	<div class="row3" data-scroll-reveal="enter bottom">
-		<div class="container pos-relative">
-			<div class="heading">
-				<span class="color1 text-uppercase">ĐỘI NGŨ Y BÁC SĨ NAM KHANG</span> 
-				<span class="color2 text-uppercase">Tất cả vì sức khỏe của người bệnh</span>
-			</div>
-			<div class="body">
-				<div class="flex flex1 justify-content-between">
-					<div class="flex1col1">
-						Khám bệnh tìm đến chuyên gia là suy nghĩ phổ biến của người dân, khám nam khoa càng cần tìm những chuyên gia kỳ cựu với kinh nghiệm lâm sàng phong phú, thông thạo các kỹ thuật y học. Phòng khám Nam Khang Hà Nội thực hiện kiểm tra đầu vào nghiêm ngặt trình độ của đội ngũ y bác sĩ, tập hợp được các chuyên gia có kinh nghiệm lâu năm trong ngành nam khoa trên địa bàn cả trong và ngoài nước, duy trì sử dụng rộng rãi dịch vụ khám chữa chất lượng cao đối với các bệnh nhân nam giới. Từ khi thành lập tới nay, Nam Khang đã chữa khỏi cho hàng vạn bệnh nhân mắc các bệnh nam khoa, và nhận được sự đánh giá cao từ đông đảo quần chúng nhân dân... <a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">[Chi tiết]</a>
-
-					</div>
-					<div class="flex1col2">
-						<img src="{{ asset('public/css/desktop3/imghome/home-14.png') }}" alt="" class="center-block">						
-					</div>
-				</div>
-			</div>
-			<img src="{{ asset('public/css/desktop3/imghome/home-12.png') }}" alt="" class="pos-absolute pos1">
-		</div>
-	</div>
 	<div class="row4" data-scroll-reveal="enter bottom">
 		<div class="container">
 			<div class="flex flex1 justify-content-between">
@@ -503,6 +483,26 @@
 					});
 				</script>
 			</div>
+		</div>
+	</div>
+	<div class="row3" data-scroll-reveal="enter bottom">
+		<div class="container pos-relative">
+			<div class="heading">
+				<span class="color1 text-uppercase">ĐỘI NGŨ Y BÁC SĨ NAM KHANG</span> 
+				<span class="color2 text-uppercase">Tất cả vì sức khỏe của người bệnh</span>
+			</div>
+			<div class="body">
+				<div class="flex flex1 justify-content-between">
+					<div class="flex1col1">
+						Khám bệnh tìm đến chuyên gia là suy nghĩ phổ biến của người dân, khám nam khoa càng cần tìm những chuyên gia kỳ cựu với kinh nghiệm lâm sàng phong phú, thông thạo các kỹ thuật y học. Phòng khám Nam Khang Hà Nội thực hiện kiểm tra đầu vào nghiêm ngặt trình độ của đội ngũ y bác sĩ, tập hợp được các chuyên gia có kinh nghiệm lâu năm trong ngành nam khoa trên địa bàn cả trong và ngoài nước, duy trì sử dụng rộng rãi dịch vụ khám chữa chất lượng cao đối với các bệnh nhân nam giới. Từ khi thành lập tới nay, Nam Khang đã chữa khỏi cho hàng vạn bệnh nhân mắc các bệnh nam khoa, và nhận được sự đánh giá cao từ đông đảo quần chúng nhân dân... <a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">[Chi tiết]</a>
+
+					</div>
+					<div class="flex1col2">
+						<img src="{{ asset('public/css/desktop3/imghome/home-14.png') }}" alt="" class="center-block">						
+					</div>
+				</div>
+			</div>
+			<img src="{{ asset('public/css/desktop3/imghome/home-12.png') }}" alt="" class="pos-absolute pos1">
 		</div>
 	</div>
 	<div class="row5" data-scroll-reveal="enter bottom">
@@ -1048,19 +1048,19 @@
 				</a>
 			</div>
 			<div class="flex flex1 justify-content-between">
-				<a class="flex1col1 bg1 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+				<a class="flex1col1 bg1 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đặt hẹn bác sĩ</p>
 					<p class="text-center">Đặt hẹn trực tuyến</p>
 				</a>
-				<a class="flex1col1 bg2 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+				<a class="flex1col1 bg2 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Tư vấn trực tuyến</p>
 					<p class="text-center">Phân tích tình trạng<br>bệnh trực tuyến</p>
 				</a>
-				<a class="flex1col1 bg3 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+				<a class="flex1col1 bg3 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đường dây nóng sức khỏe</p>
 					<p class="text-center">1800 6181</p>
 				</a>
-				<a class="flex1col1 bg4 hvr-glow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+				<a class="flex1col1 bg4 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
 					<p class="text-center">Đường đến phòng khám</p>
 					<p class="text-center">Có thể bạn chỉ cần<br>1 tấm vé xe là có ngay<br>được sức khỏe</p>
 				</a>
