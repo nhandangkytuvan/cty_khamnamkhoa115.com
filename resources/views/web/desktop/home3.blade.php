@@ -980,6 +980,33 @@
 			<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en" class="dis-block hvr-float-shadow">
 				<img src="{{ asset('public/css/desktop3/imghome/home-29.png') }}" alt="" class="center-block">
 			</a>
+			<div class="heading">
+				<span class="color1 text-uppercase">NGƯỜI QUẢN LÝ SỨC KHỎE ĐỒNG HÀNH BÊN BẠN</span> 
+				<span class="color2 ">Your health care partner is with you</span>
+			</div>
+			<div class="phone">
+				<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+					<img src="{{ asset('public/css/desktop3/imghome/home-33.png') }}" alt="" class="center-block">
+				</a>
+			</div>
+			<div class="flex flex1 justify-content-between">
+				<a class="flex1col1 bg1 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+					<p class="text-center">Đặt hẹn bác sĩ</p>
+					<p class="text-center">Đặt hẹn trực tuyến</p>
+				</a>
+				<a class="flex1col1 bg2 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+					<p class="text-center">Tư vấn trực tuyến</p>
+					<p class="text-center">Phân tích tình trạng<br>bệnh trực tuyến</p>
+				</a>
+				<a class="flex1col1 bg3 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+					<p class="text-center">Đường dây nóng sức khỏe</p>
+					<p class="text-center">1800 6181</p>
+				</a>
+				<a class="flex1col1 bg4 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
+					<p class="text-center">Đường đến phòng khám</p>
+					<p class="text-center">Có thể bạn chỉ cần<br>1 tấm vé xe là có ngay<br>được sức khỏe</p>
+				</a>
+			</div>
 			<div id="index_hj">
 				<div class="tab">
 					<ul>
@@ -1038,33 +1065,6 @@
 					});
 				});
 			</script>
-			<div class="heading">
-				<span class="color1 text-uppercase">NGƯỜI QUẢN LÝ SỨC KHỎE ĐỒNG HÀNH BÊN BẠN</span> 
-				<span class="color2 ">Your health care partner is with you</span>
-			</div>
-			<div class="phone">
-				<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
-					<img src="{{ asset('public/css/desktop3/imghome/home-33.png') }}" alt="" class="center-block">
-				</a>
-			</div>
-			<div class="flex flex1 justify-content-between">
-				<a class="flex1col1 bg1 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
-					<p class="text-center">Đặt hẹn bác sĩ</p>
-					<p class="text-center">Đặt hẹn trực tuyến</p>
-				</a>
-				<a class="flex1col1 bg2 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
-					<p class="text-center">Tư vấn trực tuyến</p>
-					<p class="text-center">Phân tích tình trạng<br>bệnh trực tuyến</p>
-				</a>
-				<a class="flex1col1 bg3 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
-					<p class="text-center">Đường dây nóng sức khỏe</p>
-					<p class="text-center">1800 6181</p>
-				</a>
-				<a class="flex1col1 bg4 hvr-grow-shadow" href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en">
-					<p class="text-center">Đường đến phòng khám</p>
-					<p class="text-center">Có thể bạn chỉ cần<br>1 tấm vé xe là có ngay<br>được sức khỏe</p>
-				</a>
-			</div>
 		</div>
 	</div>
 	<div class="row7" data-scroll-reveal="enter bottom">

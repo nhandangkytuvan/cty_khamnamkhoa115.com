@@ -139,7 +139,7 @@
 .home div.row5 .flex2col2 .table2 i.bg4{width: 24px;height: 24px;background-position: -3px -110px;}
 /**/
 .home div.row6{background-color: #fff;padding-top: 30px;}
-.home div.row6 #index_hj .tab{ height:auto; overflow:hidden; margin-bottom:15px;}
+.home div.row6 #index_hj .tab{ height:auto; overflow:hidden; margin-bottom:15px;margin-top: 50px;}
 .home div.row6 #index_hj .tab li{ width:33.33%; float:left; height:auto; overflow:hidden; cursor:pointer;}
 .home div.row6 #index_hj .tab li .in{ height:80px; overflow:hidden; padding:15px 0 15px 60px; background:#d9d9d9;}
 .home div.row6 #index_hj .tab li .in .pic{ height:50px; width:70px; float:left; overflow:hidden; position:relative;}
@@ -154,7 +154,7 @@
 .home div.row6 #index_hj .contents2 >div{display: none;}
 .home div.row6 #index_hj .contents2 >div.active{display: block;}
 
-.home div.row6 .heading{margin-top: 50px;}
+.home div.row6 .heading{margin-top: 20px;}
 .home div.row6 .heading{background-image: url('imghome/home-13.png');height: 64px;line-height: 64px;background-repeat: no-repeat;background-position: center;}
 .home div.row6 .heading span.color1{color:#222222;font-weight: bold;font-size: 16px;}
 .home div.row6 .heading span.color2{color:#00976e;font-size: 16px;}
