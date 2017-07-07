@@ -7,7 +7,9 @@ use App;
 use App\Events\VisitTermEvent;
 use BrowserDetect;
 class TermController extends Controller{
-    public function show($term_alias,$term_id,Request $request){
+    public function show($term_link,Request $request){
+        $array_link = explode('-',$term_link);
+        $term_id = end($array_link);
         $term = Term::find($term_id);
         if(!$term){
             return redirect('/');

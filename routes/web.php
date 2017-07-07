@@ -21,9 +21,11 @@ Route::get('chuyen-de/tong-hop','Web\ChuyenDeController@tonghop');
 Route::post('sendmail','Web\MyMailController@sendmail');
 Route::post('sendphone','Web\MyMailController@sendphone');
 // Term
-Route::get('/{term_alias?}/{term_id?}', 'Web\TermController@show')->where(['term_alias'=>'[-a-z0-9]+','term_id'=>'[0-9]+']);
+Route::get('/{term_link?}', 'Web\TermController@show')->where(['term_link'=>'[-a-z0-9]+']);
+//Route::get('/{term_alias?}/{term_id?}', 'Web\TermController@show')->where(['term_alias'=>'[-a-z0-9]+','term_id'=>'[0-9]+']);
 // Post
-Route::get('/{post_alias?}/{post_id?}.htm', 'Web\PostController@show')->where(['post_alias'=>'[-a-z0-9]+','post_id'=>'[0-9]+']);
+Route::get('/{post_link?}.html', 'Web\PostController@show')->where(['post_link'=>'[-a-z0-9]+']);
+//Route::get('/{post_alias?}/{post_id?}.htm', 'Web\PostController@show')->where(['post_alias'=>'[-a-z0-9]+','post_id'=>'[0-9]+']);
 
 
 // User

@@ -9,14 +9,14 @@ class MyAPI {
     public static function getUrlPostID($post_id){
         $post = Post::find($post_id);
         if($post){
-        	return url($post->post_alias.'/'.$post->id.'.htm');
+        	return url($post->post_alias.'-'.$post->id.'.html');
         }else{
         	return url('/');
         }
     }
     public static function getUrlPostObj($post){
         if($post){
-            return url($post->post_alias.'/'.$post->id.'.htm');
+            return url($post->post_alias.'-'.$post->id.'.html');
         }else{
             return url('/');
         }
@@ -25,14 +25,14 @@ class MyAPI {
     public static function getUrlTermID($term_id){
         $term = Term::find($term_id);
         if($term){
-        	return url($term->term_alias.'/'.$term->id);
+        	return url($term->term_alias.'-'.$term->id);
         }else{
         	return url('/');
         }
     }
     public static function getUrlTermObj($term){
         if($term){
-            return url($term->term_alias.'/'.$term->id);
+            return url($term->term_alias.'-'.$term->id);
         }else{
             return url('/');
         }

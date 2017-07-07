@@ -8,7 +8,10 @@ use App\Events\VisitSumEvent;
 use App\Events\VisitPostEvent;
 use BrowserDetect;
 class PostController extends Controller{
-    public function show($post_alias,$post_id,Request $request){
+    public function show($post_link,Request $request){
+        $array_link = explode('-',$post_link);
+        $post_id = end($array_link);
+        //----------------------------------
     	$setting = Setting::first();
         //event(new VisitSumEvent($setting));
     	$post = Post::find($post_id);
