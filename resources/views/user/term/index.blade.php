@@ -81,6 +81,11 @@
                                         <span class="glyphicon glyphicon-trash"></span> Xóa term
                                     </a> 
                                 </li>
+                                <li>
+                                    <a href="{{ url('user/term/remove-post/'.$term->id) }}">
+                                        <span class="glyphicon glyphicon-check"></span> Xóa bài viết trong term
+                                    </a> 
+                                </li>
                             </ul>  
                         </div>
                     </div>

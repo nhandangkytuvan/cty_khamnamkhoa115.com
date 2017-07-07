@@ -60,6 +60,7 @@ Route::group(['middleware' => ['check-user']], function () {
 	Route::any('user/term/edit/{term_id?}','User\TermController@edit')->middleware('check-admin');
 	Route::any('user/term/delete/{term_id?}','User\TermController@delete')->middleware('check-admin');
 	Route::any('user/term/index{query?}','User\TermController@index');
+	Route::any('user/term/remove-post/{term_id?}','User\TermController@removePost')->middleware('check-admin');
 	// setting
 	Route::any('user/setting/create', 'User\SettingController@create')->middleware('check-admin');
 	Route::any('user/setting/edit/{setting_id}', 'User\SettingController@edit')->middleware('check-admin');
