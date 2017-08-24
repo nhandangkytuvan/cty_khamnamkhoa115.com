@@ -29,7 +29,7 @@
             </div>
             <div class="form-group clearfix">
                 <a class="pull-right label label-info" target="_blank"  
-                    href="{{ url($data['post']->post_alias.'/'.$data['post']->id.'.htm') }}" class="pull-right">
+                    href="{{ url($data['post']->post_alias.'-'.$data['post']->id.'.html') }}" class="pull-right">
                     <span class="glyphicon glyphicon-eye-open"></span>
                     Xem bài
                 </a>

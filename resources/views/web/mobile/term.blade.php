@@ -167,6 +167,9 @@
 		<div class="my_pagination">
 			{!! $data['post_terms']->links() !!}
 		</div>
+		<div class="term-adv" style="margin-bottom: 8px;">
+			<a href="http://swt.phongkham193.com/LR/Chatpre.aspx?id=MFI63108226&cid=1489654963660812714370&lng=en"><img src="{{ asset('public/images/mobile/term-adv.png') }}" alt="" class="center-block img-responsive"></a>
+		</div>
 		<div class="uudiem-thuonghieu">
 			<div class="flex2 dis-table table2">
 				<div class="table-cell cell1">
